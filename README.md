@@ -7,7 +7,7 @@
 # Date: 
 
 ### AIM:
-To perform regular differncing,seasonal adjustment and log transformatio on power consumption dataset
+To perform regular differncing,seasonal adjustment and log transformatio on national stock exchange dataset
 ### ALGORITHM:
 1. Import the required packages like pandas and numpy
 2. Read the data using the pandas
